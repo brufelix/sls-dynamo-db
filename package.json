@@ -10,5 +10,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1266.0"
+  }
 }
